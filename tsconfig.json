@@ -1,0 +1,7 @@
+{
+  "extends": "./custom-tsconfig.json",
+  "compilerOptions": {
+    "lib": ["esnext", "dom"],
+    "strict": true
+  }
+}
